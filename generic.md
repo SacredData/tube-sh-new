@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Different
+description: The needed change we bring to streaming
+image: assets/images/mcafee.jpg
 nav-menu: true
 ---
 

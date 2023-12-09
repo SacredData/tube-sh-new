@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Services
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'From live streaming tools to members-only content<br />we make it easy. And we make it YOURS!'
+image: assets/images/fish.jpg
 nav-menu: true
 ---
 

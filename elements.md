@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: Independence
+description: We help creators take things to the next level
+image: assets/images/16.jpg
 nav-menu: true
 ---
 
