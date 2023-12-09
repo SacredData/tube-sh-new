@@ -3,7 +3,7 @@ title: tube.sh
 subtitle: by SACRED DATA
 email: andrew@tube.sh
 description: Your media-business-in-a-box
-baseurl: "/tube-sh-new" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 10582 New Cut Off Rd
